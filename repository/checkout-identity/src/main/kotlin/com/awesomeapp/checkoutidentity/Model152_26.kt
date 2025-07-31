@@ -1,0 +1,7 @@
+package com.awesomeapp.checkoutidentity
+
+data class Model152_26(
+    val id: String = "Model152_26-1753922235276",
+    val name: String = "Model for Model152_26",
+    val description: String = "Description for Model152_26"
+)
